@@ -1,0 +1,4 @@
+venv/
+.ipynb_checkpoints/
+*.pt # Ignore large model weight files
+data/ # Ignore dataset folders
